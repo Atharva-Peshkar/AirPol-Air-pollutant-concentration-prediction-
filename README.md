@@ -2,10 +2,7 @@ Setup:
 1) Download the 'All India Air Quality Data.csv' from the following link:
 https://drive.google.com/drive/folders/12CoOmE5SN8p_hkLUV4B16e9DsKbuK5kQ?usp=sharing
 
-2) Place the downloaded dataset in the following manner:
-  AirPol
-    +India
-      =>All India Air Quality Data.csv
+2) Place the downloaded dataset in the following manner: \AirPol\India\All India Air Quality Data.csv\
  
  3)You're ready to go.
  
