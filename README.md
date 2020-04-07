@@ -8,6 +8,17 @@ https://drive.google.com/drive/folders/12CoOmE5SN8p_hkLUV4B16e9DsKbuK5kQ?usp=sha
       =>All India Air Quality Data.csv
  
  3)You're ready to go.
+ 
+Dependencies:
++ Python 3.7
++ Tensorflow = 2.x.x
++ Scikit Learn
++ Matplotlib
++ Seaborn
++ Numpy
++ Pandas
++ Scipy
+
 
 # AirPol
 AirPol is a project that aims to use various meteorological, geographical and current air pollutant concentration to predict accurate future concentration of air pollutants in advance. 
